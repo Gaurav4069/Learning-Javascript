@@ -76,3 +76,10 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+
+// Memory
+// there are two type of memory one is stack and another is heap
+// all the primitive data types are assigned stack memory whereas all the non primitive data types are assigned heap memory
+// whenever stack memory is assigned so we always get a copy of the data whereas when heap memory is assinged we get the reference of the data
