@@ -8,5 +8,4 @@ console.table([account,accountId,accountName])
 
 let Name 
 var user
-
 console.table([Name,user])
