@@ -27,3 +27,14 @@ console.log(valueInNumber1) //here type is number but value of valueInNumber1 is
 // 0=>false
 // ""=>false
 // "Gaurav"=>true
+
+// important conversions
+console.log("1" +2 +2) //here string comes first so it will treat others as string and result will be 122
+console.log(1+2+"2")  // here number comes first so it will consider the first two as number and add it then it will concatenate them as in case of string so result will be 32
+
+// null >= 0 true
+// null > 0 false
+// null = 0 false
+// the result is like this because comparison and equality check works differently  , comparisons convert null to a number 
+
+// we use === for strict check it checks the values as well as the data type
