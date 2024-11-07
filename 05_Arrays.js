@@ -1,6 +1,6 @@
 // Javascript Arrays are resizable and can contain a mix of different datatypes
 // Javascript Arrays copy operations create a shallow copy
-// shallow copy of an object is a copy whoes properties share the same reference point as those of the source object from which the copy was made . it means it creates takes memory in heap and it is a non primitive data type
+// shallow copy of an object is a copy whoes properties share the same reference point as those of the source object from which the copy was made . it means it  takes memory in heap and it is a non primitive data type
 // deep copy  of an object is a copy whoes properties do not share the same reference point as those of the source object from which the copy was made
 // so we use push and pop methods in array in javascript 
 // similar to push and pop we have shift and unshift methods in array 
